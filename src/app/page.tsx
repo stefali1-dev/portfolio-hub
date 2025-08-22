@@ -205,7 +205,7 @@ export default function Home() {
                   <div className="w-6 h-6 border-2 border-amber-400 border-dashed rounded-full"></div>
                 </div>
                 <h4 className="text-xl font-semibold text-white group-hover:text-amber-300 transition-colors duration-300">
-                  Let's Connect
+                  Let&apos;s Connect
                 </h4>
                 <p className="text-gray-300 leading-relaxed">
                   Open to new opportunities and interesting conversations
